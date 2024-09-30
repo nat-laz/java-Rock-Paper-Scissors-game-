@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class RockPaperScissors {
+public class Game {
 
     private int scoreOfPlayer = 0;
     private int scoreOfComputer = 0;
@@ -101,7 +101,7 @@ public class RockPaperScissors {
 
 
     public static void main(String[] args) {
-        RockPaperScissors game = new RockPaperScissors();
+        Game game = new Game();
         game.play();
     }
 }

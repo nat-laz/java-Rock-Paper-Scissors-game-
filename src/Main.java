@@ -86,7 +86,7 @@ public class Main {
 
     public void displayGameMenu() {
         System.out.println("Welcome to the Game!");
-        System.out.println("1. Start the game. ");
-        System.out.println("2. Exit the game. ");
+        System.out.println("1. Start the Game.java. ");
+        System.out.println("2. Exit the Game.java. ");
     }
 }
