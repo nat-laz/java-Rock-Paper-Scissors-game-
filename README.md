@@ -1,5 +1,11 @@
 ## Exercise: "Rock, Paper, Scissors" Game in Java
 
+### Team Members
+
+- Alex Bruch
+- Natalie Lazarev
+- Mitali Soti
+
 ### Follow the instructions below to complete the exercise:
 
 -	Allow the player to input their choice (Rock, Paper, or Scissors).
