@@ -21,8 +21,8 @@ the results of each round.
 - **Scoring System:** The program keeps track of the number of rounds played and the score for both the player and the
   computer.
 
-### Team Members
+### Project Developer Team
 
-- Alex Bruch
-- Natalie Lazarev
-- Mitali Soti
+- [Alex Bruch](https://github.com/bruch-alex)
+- [Natalie Lazarev](https://github.com/nat-laz)
+- [Mitali Soti](https://github.com/mitalisoti)
